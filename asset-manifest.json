@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/VincentWang1024.github.io/static/css/main.fbc00891.css",
-    "main.js": "/VincentWang1024.github.io/static/js/main.6fdbff59.js",
-    "index.html": "/VincentWang1024.github.io/index.html"
+    "main.css": "/myWebsite/static/css/main.fbc00891.css",
+    "main.js": "/myWebsite/static/js/main.1a3758c5.js",
+    "index.html": "/myWebsite/index.html"
   },
   "entrypoints": [
     "static/css/main.fbc00891.css",
-    "static/js/main.6fdbff59.js"
+    "static/js/main.1a3758c5.js"
   ]
 }
