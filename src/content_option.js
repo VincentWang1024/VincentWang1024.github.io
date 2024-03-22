@@ -1,15 +1,15 @@
-const logotext = "JOHN";
+const logotext = "WANG";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Vincent Wang",
+    description: "I’m Vincent Wang Full stack devloper,currently working in Ireland",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Vincent Wang",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I develop high-performance apps",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
@@ -147,9 +147,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/VincentWang1024",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/vincent-wang-a5726b222/",
     twitter: "https://twitter.com",
 };
 export {
