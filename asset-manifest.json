@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/%3Chttps://VincentWang1024.github.io/VincentWang1024.github.io%3E/static/css/main.fbc00891.css",
-    "main.js": "/%3Chttps://VincentWang1024.github.io/VincentWang1024.github.io%3E/static/js/main.72cfdaea.js",
-    "index.html": "/%3Chttps://VincentWang1024.github.io/VincentWang1024.github.io%3E/index.html"
+    "main.css": "/VincentWang1024.github.io/static/css/main.fbc00891.css",
+    "main.js": "/VincentWang1024.github.io/static/js/main.6fdbff59.js",
+    "index.html": "/VincentWang1024.github.io/index.html"
   },
   "entrypoints": [
     "static/css/main.fbc00891.css",
-    "static/js/main.72cfdaea.js"
+    "static/js/main.6fdbff59.js"
   ]
 }
